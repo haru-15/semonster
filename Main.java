@@ -3,6 +3,6 @@ public class Main {
     System.out.println("SEMonster!");
     Player player = new Player();
     player.drawMonsters();
-    player.showDeck();
+    player.showDeck()
   }
 }
